@@ -1,7 +1,7 @@
 # Machine Unlearning
 
 ## Objective
-The goal of this repository is to provide a solution for the NeurIPS 2023 - Machine Unlearning competition. The challenge involves developing an algorithm capable of "unlearning" specific data points from a trained machine learning model, particularly an age predictor model based on face images. The solution aims to ensure that the influence of the forgotten data is removed efficiently without retraining the model from scratch, while also preserving the overall accuracy and performance on the remaining data.
+The goal of this repository is developing an algorithm capable of "unlearning" specific data points from a trained machine learning model, particularly an age predictor model based on face images. The solution aims to ensure that the influence of the forgotten data is removed efficiently without retraining the model from scratch, while also preserving the overall accuracy and performance on the remaining data.
 
 ## Background
 
