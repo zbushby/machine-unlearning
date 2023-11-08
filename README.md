@@ -1,11 +1,11 @@
 # Machine Unlearning
 
-## Objective
+
 The goal of this repository is developing an algorithm capable of "unlearning" specific data points from a trained machine learning model, particularly an age predictor model based on face images. The solution aims to ensure that the influence of the forgotten data is removed efficiently without retraining the model from scratch, while also preserving the overall accuracy and performance on the remaining data.
 
 ## Background
 
-Machine unlearning is a growing subfield of machine learning that focuses on the removal of specific data from a trained model. This need arises for various reasons, such as protecting user privacy, complying with legal requests for data deletion, or correcting training datasets. Traditional approaches to this problem involve retraining the model without the data to be forgotten, which can be computationally expensive and time-consuming. The objective of this competition, and hence our code, is to refine and develop more efficient unlearning processes.
+Machine unlearning is a growing subfield of machine learning that focuses on the removal of specific data from a trained model. This need arises for various reasons, such as protecting user privacy, complying with legal requests for data deletion, or correcting training datasets. Traditional approaches to this problem involve retraining the model without the data to be forgotten, which can be computationally expensive and time-consuming.
 ![MachineUnlearningExample](Images/example.png)
 
 
